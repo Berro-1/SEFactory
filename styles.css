@@ -29,10 +29,9 @@ body {
     height: 120px;
     margin-right: 20px;
     transition: border 0.3s;
+    border: #000 solid 4px;
 }
-.header img:hover {
-    border: 5px solid #444;
-}
+
 .header h1 {
     margin: 0px;
     font-size: 40px;
